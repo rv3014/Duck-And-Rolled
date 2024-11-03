@@ -1,0 +1,14 @@
+{
+    "title": "Duck And Rolled",
+    "author": "Romir Verma",
+    "summary": "Mini Platform Fighter where you must break through opponent blocking and catch them off guard",
+    "release_date": "2024-03-11",
+    "multiplayer": true,
+    "genres": [
+        "Platformer", "Fighter"
+    ],
+    "times_played": 0,
+    "last_played": 0,
+    "cover_image": "\\Sprite-0022.png",
+    "exec": "\\DuckAndRolled.sh"
+}
